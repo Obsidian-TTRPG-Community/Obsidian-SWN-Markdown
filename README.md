@@ -4,7 +4,7 @@ Introducing an unofficial Obsidian Vault designed to support and ensure compatib
 
 You can consider this an abridged and tool-focused version of the free PDF. 
 
-> **Note:** This vault is not a replacement for the free PDF. It is a companion to it. It **does not contain** any of the paid content from the full version of the game.
+> **Note:** This vault is not a replacement for the free PDF. It is a companion to it. It **does not contain** any of the paid content from the full version of the game. Please consider [buying the paid version](https://www.drivethrurpg.com/product/226996/Stars-Without-Number-Revised-Edition?src=hottest_filtered) to support an awesome one-person publishing company. 
 >
 > This vault is also in progress with an conservative completion date of **_2023-08-15_**.
 
